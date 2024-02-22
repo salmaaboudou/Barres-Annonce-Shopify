@@ -1,4 +1,4 @@
-# Snippets pour Barres d'Annonce Shopify
+# Code snippets pour créer des Barres d'annonce Shopify Luxueuses
 
 Ce dépôt propose 3 snippets CSS prêts à l'emploi pour ajouter des barres d'annonce luxueuses à votre boutique Shopify : Couleurs dorées, argentées, et noires brillantes.
 
